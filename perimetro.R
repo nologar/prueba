@@ -1,5 +1,5 @@
 PerimCua<-function(L){
-  return ((L+L)*2)
+  return (2*(L+L))
 }
 Perimcir<-function(J){
   return(2*pi*J)
