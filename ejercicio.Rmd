@@ -1,0 +1,16 @@
+---
+title: "ejercicio"
+output: html_document
+date: "2024-10-14"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r}
+r<-0.5
+areas<-pi*r^2
+```
+
