@@ -18,3 +18,15 @@ areas<-pi*r^2
 r<-0.5
 cua<-r*r
 ```
+
+# Cuadrado
+```{r}
+L<-4
+a_cua<-L*L
+```
+
+# Rectángulo
+```{r}
+La<-5
+a_tri<-(La*La)/2
+```
